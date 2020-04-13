@@ -36,7 +36,7 @@ CREATE TABLE `login` (
 --
 -- Dumping data for table `login`
 --
-
+INSERT INTO `login `VALUES(okytandiyan@gmail.com`,'paswond 
 INSERT INTO `login` VALUES('24priyal@gmail.com', 'life...');
 INSERT INTO `login` VALUES('aankitroy1990@gmail.com', 'xpressyourviews');
 INSERT INTO `login` VALUES('aarushis27@gmail.com', 'portkey!');
